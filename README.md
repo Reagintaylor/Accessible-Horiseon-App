@@ -12,7 +12,7 @@
 
 * Finally, I consolidated the CSS files to eliminate repetition. Nothing should be changed visually but the code is much easier to understand. 
 
-* [Link to the website](http://127.0.0.1:5500/Accessible-Horiseon-App/index.html) 
+* [Link to the website](https://reagintaylor.github.io/Accessible-Horiseon-App/) 
 
 * This is how the website should look like.
 
