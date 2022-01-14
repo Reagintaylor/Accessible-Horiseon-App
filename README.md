@@ -16,6 +16,6 @@
 
 * This is how the website should look like.
 
-[image of the webpage](./assets/images/Screenshot-1)
-[image 2 of the webpage](./assets/images/Screenshot-2)
-[image 3 of the webpage](./assets/images/Screenshot-3)
+![image of the webpage](./assets/img/Screenshot-1.png)
+![image 2 of the webpage](./assets/img/Screenshot-2.png)
+![image 3 of the webpage](./assets/img/Screenshot-3.png)
